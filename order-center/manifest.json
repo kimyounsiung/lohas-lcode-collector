@@ -1,0 +1,30 @@
+{
+ "release": {
+  "app": "lohas-order-center",
+  "format": 1,
+  "version": "2026.11.09.99",
+  "url": "https://github.com/kimyounsiung/lohas-lcode-collector/releases/download/order-center-v2026.11.09.99/package.zip",
+  "size": 57205314,
+  "sha256": "3b1c17a90629457b5f59d77c5e152b5f843f2869fb42dc4afa44fbfdaec4e5e2",
+  "files": {
+   "로하스주문센터.exe": {
+    "size": 48568566,
+    "sha256": "9131bd3e322d256fbf705b9743335cdc0d4761fc1ee8cd6f2b9b56c174fa5df6"
+   },
+   "EMPWorker.exe": {
+    "size": 9243124,
+    "sha256": "e688859cc5ea1884b3b08fa16c57a65ceb5f1c85564c76f65eb675b4a4e9d96e"
+   },
+   "start.ps1": {
+    "size": 8047,
+    "sha256": "885dd59fc64507491b1281511492f71f17d128a01d198d6c957994ef13b3b161"
+   },
+   "업데이트 적용하기.cmd": {
+    "size": 760,
+    "sha256": "367c7a9a8f9899adf3bba1230101ac7dea45eaa204678484beb2639d1f38496e"
+   }
+  },
+  "createdAt": "2026-11-09T10:53:26+09:00"
+ },
+ "signature": "gOdyMEGPExiVJkayKoDK0M1SfTlVcP4ezIOce99zHemdVnr4o3ZF//rgGWSzJDZDhw7/RNJCYL/sxh0Vf+NRDg=="
+}
