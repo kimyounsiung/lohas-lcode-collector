@@ -2,29 +2,29 @@
  "release": {
   "app": "lohas-order-center",
   "format": 1,
-  "version": "2026.11.12.141",
-  "url": "https://github.com/kimyounsiung/lohas-lcode-collector/releases/download/order-center-v2026.11.12.141/package.zip",
-  "size": 60281259,
-  "sha256": "4b5d2b744f2eeac81534699a8e9acaa3059b51d393d26522ddfad3fad61eb760",
+  "version": "2026.11.12.142",
+  "url": "https://github.com/kimyounsiung/lohas-lcode-collector/releases/download/order-center-v2026.11.12.142/package.zip",
+  "size": 60292276,
+  "sha256": "dab4db22b1660fa2fd7f1aa44abdf6172fc9e84144a54b438bf0021c368694e1",
   "files": {
    "로하스주문센터.exe": {
-    "size": 51568835,
-    "sha256": "11472cb69622576287d2d15511b6e47adf1f5324dde4a5ac1528eeaad9ccc62b"
+    "size": 51572543,
+    "sha256": "01b31d073f17cccc369abdcb3d0d761acc0983de429dc43a671f288ad6e59f45"
    },
    "EMPWorker.exe": {
-    "size": 9320838,
-    "sha256": "336bae007e0f7506197f76d790d7d17bc10c3799ec7e4411336fd04dce0b6c8f"
+    "size": 9327903,
+    "sha256": "d2dbb7d9394fcef7545660364d83e51de572cd08cb7e3c4d02cf5b3942e978d0"
    },
    "start.ps1": {
     "size": 8048,
-    "sha256": "727d0607efd527ca37e1f80cdcbb9b63a68f67f5afac60957ce2730718f751f4"
+    "sha256": "fee586cbf8506b9c1ca36601f2691a85f3515ec2e7a35a7cb20ff95f3ba6dcf1"
    },
    "업데이트 적용하기.cmd": {
     "size": 760,
     "sha256": "367c7a9a8f9899adf3bba1230101ac7dea45eaa204678484beb2639d1f38496e"
    }
   },
-  "createdAt": "2026-11-12T10:59:35+09:00"
+  "createdAt": "2026-11-12T11:22:12+09:00"
  },
- "signature": "3DfVDBlaIBEsFNfuyMnGfGHC38nXsar7mHEhpYKkrUg/u0H8xHXztKu7Sl6gpf4hgHuNqN759jLQcQU2HWMVCA=="
+ "signature": "ZFLvHa47o2Fjd5+JoZmB9nuVu5/I9x7HNMD3tueI6r8/BaMvGe0VHpblEgWoxzYXLs8mPcLqypfRb4bjod6+DA=="
 }
